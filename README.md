@@ -1,6 +1,6 @@
 # UnionAvatarsAIChallenge
 
-Made in Unity 2021.3.18f1
+Made in Unity 2021.3.18f1 <br>
 Unity SDK Documentation: https://unionavatars.notion.site/Union-Avatars-Unity-SDK-53956c64d241482684414a196a88da3f
 
 ## Setup
