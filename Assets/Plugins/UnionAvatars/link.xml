@@ -1,0 +1,9 @@
+<linker>
+       <assembly fullname="UnionAvatars" preserve="all"/>
+       <assembly fullname="UnityEngine.CoreModule">
+              <type fullname="UnityEngine.BoneWeight1" preserve="all"/>
+              <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all"/>
+              <type fullname="Unity.Collections.NativeArray`1[UnityEngine.BoneWeight1]" preserve="all"/>
+              <type fullname="Unity.Collections.NativeArray`1[System.Byte]" preserve="all"/>
+	</assembly>
+</linker>

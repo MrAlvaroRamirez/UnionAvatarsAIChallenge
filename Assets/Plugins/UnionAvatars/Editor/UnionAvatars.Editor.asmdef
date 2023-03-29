@@ -1,0 +1,18 @@
+{
+    "name": "UnionAvatars.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:033858bda027c764bac20eee52aaed49"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
