@@ -250,7 +250,7 @@ MonoBehaviour:
   devUsername: 
   devPassword: 
   avatarAnimator: {fileID: 9100000, guid: 64ca7d158e3a67a41b7aa4198b543e15, type: 2}
-  bodyType: 1
+  bodyType: 2
   avatarInitialPosition: {x: 0, y: 0.056, z: 0}
   avatarInitialRotation: {x: 0, y: 0, z: 0}
   loadUIOnStart: 1

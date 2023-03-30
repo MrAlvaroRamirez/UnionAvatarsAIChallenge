@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4231b6866fd475e44bceb37df69ff08f, type: 3}
   m_Name: UnionAvatarsSDK_Settings
   m_EditorClassIdentifier: 
-  useCache: 0
+  useCache: 1
   firstTimeLoading: 0

@@ -87,7 +87,7 @@ public class ChallengeUI : MonoBehaviour
 
         Body avatarBody = new Body
         {
-            Id = new Guid()
+            Id = Guid.NewGuid()
         };
 
         switch (bodyType)
